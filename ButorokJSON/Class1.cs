@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ButorokJSON
 {
-    internal class Meretek
+    public class Meretek
     {
         public int szelesseg {  get; set; }
 
