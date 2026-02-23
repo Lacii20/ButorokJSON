@@ -1,0 +1,124 @@
+{
+  "targyak": [
+    {
+      "azonosito": 1,
+      "nev": "Íróasztal",
+      "anyag": "Fa",
+      "meretek": {
+        "szelesseg": 120,
+        "magassag": 75,
+        "melyseg": 60
+      },
+      "ar": 45000,
+      "keszleten": true
+    },
+    {
+      "azonosito": 2,
+      "nev": "Forgószék",
+      "anyag": "Műanyag és fém",
+      "meretek": {
+        "szelesseg": 50,
+        "magassag": 100,
+        "melyseg": 50
+      },
+      "ar": 30000,
+      "keszleten": false
+    },
+    {
+      "azonosito": 3,
+      "nev": "Könyvespolc",
+      "anyag": "Fa",
+      "meretek": {
+        "szelesseg": 80,
+        "magassag": 200,
+        "melyseg": 30
+      },
+      "ar": 60000,
+      "keszleten": true
+    },
+    {
+      "azonosito": 4,
+      "nev": "Étkezőasztal",
+      "anyag": "Tömör fa",
+      "meretek": {
+        "szelesseg": 180,
+        "magassag": 75,
+        "melyseg": 90
+      },
+      "ar": 120000,
+      "keszleten": true
+    },
+    {
+      "azonosito": 5,
+      "nev": "Kanapé",
+      "anyag": "Textil és fa",
+      "meretek": {
+        "szelesseg": 200,
+        "magassag": 90,
+        "melyseg": 80
+      },
+      "ar": 220000,
+      "keszleten": false
+    },
+    {
+      "azonosito": 6,
+      "nev": "Ágykeret",
+      "anyag": "Tömör fa",
+      "meretek": {
+        "szelesseg": 160,
+        "magassag": 50,
+        "melyseg": 200
+      },
+      "ar": 150000,
+      "keszleten": true
+    },
+    {
+      "azonosito": 7,
+      "nev": "Éjjeliszekrény",
+      "anyag": "Fa és üveg",
+      "meretek": {
+        "szelesseg": 50,
+        "magassag": 60,
+        "melyseg": 40
+      },
+      "ar": 30000,
+      "keszleten": true
+    },
+    {
+      "azonosito": 8,
+      "nev": "Fotel",
+      "anyag": "Textil és fa",
+      "meretek": {
+        "szelesseg": 90,
+        "magassag": 100,
+        "melyseg": 80
+      },
+      "ar": 70000,
+      "keszleten": true
+    },
+    {
+      "azonosito": 9,
+      "nev": "Tükör",
+      "anyag": "Üveg és fa",
+      "meretek": {
+        "szelesseg": 60,
+        "magassag": 120,
+        "melyseg": 5
+      },
+      "ar": 20000,
+      "keszleten": false
+    },
+    {
+      "azonosito": 10,
+      "nev": "Komód",
+      "anyag": "Tömör fa",
+      "meretek": {
+        "szelesseg": 120,
+        "magassag": 80,
+        "melyseg": 50
+      },
+      "ar": 80000,
+      "keszleten": true
+    }
+  ]
+}
