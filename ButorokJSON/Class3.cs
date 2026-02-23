@@ -10,5 +10,6 @@ namespace ButorokJSON
     {
         public List<Targyak> targyak {  get; set; }
 
+
     }
 }
